@@ -1,0 +1,18 @@
+ Faça 3 atividades com apenas 4 comandos!
+
+Tutorial do procedimento, faça o passo a passo para ter sucesso.
+Obeservação: Use os comandos abaixo como root.
+Só lembrando que este script funciona apenas no Ubuntu Server 20.04".
+
+1 - git clone https://github.com/JJ-Junior/aso2.git
+2 - cd aso2/
+3 - chmod +x server-config-v0.1.sh
+4 - ./server-config-v0.1.sh
+
+Depois de fazer o passo 4 o script fará toda a configuração do seu servidor.
+O script irá configurar a rede interna, instalará os pacotes: net-tools e openssh-server e configurará o firewall ufw habilitando a porta 22 pro servidor receber o acesso ssh.
+
+Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
+Em breve será adicionado a configuração do DHCP!
+
+
