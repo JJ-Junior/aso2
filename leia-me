@@ -1,4 +1,4 @@
-Faça 3 atividades com apenas 4 comandos!
+Faça as atividades com apenas 4 comandos!
 
 Tutorial do procedimento, faça o passo a passo para ter sucesso.
 Obeservação: Use os comandos abaixo como root.
@@ -6,12 +6,11 @@ Só lembrando que este script funciona apenas no Ubuntu Server 20.04".
 
 1 - git clone https://github.com/terminal-junior/aso2.git
 2 - cd aso2/
-3 - chmod +x server-config-v0.1.sh
-4 - ./server-config-v0.1.sh
+3 - chmod +x server-config-v0.2.sh
+4 - ./server-config-v0.2.sh
 
 Depois de fazer o passo 4 o script fará toda a configuração do seu servidor.
 O que o script irá fazer?
-
 1 - Atualização do repositório
 2 - Instalação do pacote "net-tools"
 3 - Instalação do pacote "openssh-server"
@@ -23,3 +22,6 @@ Em breve será adicionado a configuração do DHCP!
 
 
 Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
+
+
+
