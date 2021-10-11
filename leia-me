@@ -1,4 +1,4 @@
- Faça 3 atividades com apenas 4 comandos!
+Faça 3 atividades com apenas 4 comandos!
 
 Tutorial do procedimento, faça o passo a passo para ter sucesso.
 Obeservação: Use os comandos abaixo como root.
@@ -10,9 +10,16 @@ Só lembrando que este script funciona apenas no Ubuntu Server 20.04".
 4 - ./server-config-v0.1.sh
 
 Depois de fazer o passo 4 o script fará toda a configuração do seu servidor.
-O script irá configurar a rede interna, instalará os pacotes: net-tools e openssh-server e configurará o firewall ufw habilitando a porta 22 pro servidor receber o acesso ssh.
+O que o script irá fazer?
 
-Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
+1 - Atualização do repositório
+2 - Instalação do pacote "net-tools"
+3 - Instalação do pacote "openssh-server"
+4 - Atualização do servidor
+5 - Configurar a rede interna
+6 - Configurar o firewall ufw, habilitando a porta 22 pro servidor receber o acesso ssh.
+
 Em breve será adicionado a configuração do DHCP!
 
 
+Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
