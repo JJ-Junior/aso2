@@ -7,7 +7,7 @@ Só lembrando que este script funciona apenas no Ubuntu Server 20.04".
 Use os comandos abaixo se você não fez nada Ubuntu Server 20.04:
 
 $ git clone https://github.com/terminal-junior/aso2.git
-$ cd aso2/
+$ cd aso2/v0.2/
 $ chmod +x install.sh
 $ ./install.sh
 
@@ -29,7 +29,7 @@ O que o script irá fazer?
 Caso você já usou o server-config-v0.1.sh use os seguintes comandos:
 
 $ git clone https://github.com/terminal-junior/aso2.git
-$ cd aso2/
+$ cd aso2/v0.2/
 $ chmod +x server-config-v0.2.sh
 $ ./server-config-v0.2.sh
 
