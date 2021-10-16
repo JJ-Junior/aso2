@@ -24,7 +24,7 @@ O que o script irá fazer?
 8 - Instalação do pacote "isc-dhcp-server"
 9 - Configuração padrão do serviço DHCP.
 
-
+----------------------------------------------------------------------------------------------
 
 Caso você já usou o server-config-v0.1.sh use os seguintes comandos:
 
@@ -37,5 +37,17 @@ O que o script irá fazer?
 
 1 - Instalação do pacote "isc-dhcp-server"
 2 - Configuração padrão do serviço DHCP.
+
+----------------------------------------------------------------------------------------------
+
+config-v0.2 md5: 650bfc08c591ee825aa0f12a2ebd8c2c 
+config-v0.2 sha256: 69a739e844b62346c0766b3611cb01f92972b84364e08a8b3484e16f1cecf430
+
+install.sh md5: 69a5ee4ea16c0826278228ac7127e832  
+install.sh sha256: f22aafcb0fbcd7fb3aa08bc84711eb065c9d4a6414538e6172d930dfa19dc76b  
+
+server-config-v0.2.sh md5: aa79598ee9337e843adcfc045db3a329  
+server-config-v0.2.sh sha256: ba53940e2589bb148c6be64689859988f32ab04b3a9390fa7f05865f5a9a95b0 
+
 
 Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
