@@ -19,7 +19,10 @@ O que o script irá fazer?
 6 - Configurar o firewall ufw
 7 - Habilitando a porta 22 pro servidor receber o acesso ssh.
 
+---------------------------------------------------------------------------------
 
+server-config-v0.1.sh md5: efdb3246cd7c7033630667fb75b63fe5  
+server-config-v0.1.sh sha256: 31d01d388666e6497cf8b29cfa473ff585196c59373c8662f4b3507fe9c0a78e  
 
 
 Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
