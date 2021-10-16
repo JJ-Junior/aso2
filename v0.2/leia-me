@@ -1,0 +1,41 @@
+Faça as atividades com apenas 4 comandos!
+
+Tutorial do procedimento, faça o passo a passo para ter sucesso.
+Obeservação: Use os comandos abaixo como root.
+Só lembrando que este script funciona apenas no Ubuntu Server 20.04".
+
+Use os comandos abaixo se você não fez nada Ubuntu Server 20.04:
+
+$ git clone https://github.com/terminal-junior/aso2.git
+$ cd aso2/
+$ chmod +x install.sh
+$ ./install.sh
+
+Depois de fazer o passo 4 o script fará toda a configuração do seu servidor.
+O que o script irá fazer?
+
+1 - Atualização do repositório
+2 - Instalação do pacote "net-tools"
+3 - Instalação do pacote "openssh-server"
+4 - Atualização do servidor
+5 - Configurar a rede interna
+6 - Configurar o firewall ufw 
+7 - Habilitando a porta 22 pro servidor receber o acesso ssh.
+8 - Instalação do pacote "isc-dhcp-server"
+9 - Configuração padrão do serviço DHCP.
+
+
+
+Caso você já usou o server-config-v0.1.sh use os seguintes comandos:
+
+$ git clone https://github.com/terminal-junior/aso2.git
+$ cd aso2/
+$ chmod +x server-config-v0.2.sh
+$ ./server-config-v0.2.sh
+
+O que o script irá fazer?
+
+1 - Instalação do pacote "isc-dhcp-server"
+2 - Configuração padrão do serviço DHCP.
+
+Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
