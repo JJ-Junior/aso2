@@ -16,9 +16,9 @@ O que o script irá fazer?
 3 - Instalação do pacote "openssh-server"
 4 - Atualização do servidor
 5 - Configurar a rede interna
-6 - Configurar o firewall ufw, habilitando a porta 22 pro servidor receber o acesso ssh.
-7 - Instalação do pacote "isc-dhcp-server"
-8 - Configuração padrão do serviço DHCP.
+6 - Configurar o firewall ufw
+7 - Habilitando a porta 22 pro servidor receber o acesso ssh.
+
 
 
 
