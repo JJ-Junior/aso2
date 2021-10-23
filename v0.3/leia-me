@@ -5,6 +5,7 @@ Obeservação: Use os comandos abaixo como root.
 Só lembrando que este script funciona apenas no "Debian 11".
 
 Use os comandos abaixo se você não fez nada Debian 11:
+Aviso: Pode haver bugs no script, por tanto use em uma máquina virtual de teste.
 
 $ apt install git -y
 $ git clone https://github.com/terminal-junior/aso2.git
@@ -19,12 +20,13 @@ O que o script irá fazer?
 04 - Instalando MYSQL (Banco de Dados)
 05 - Instalando PHP
 06 - Instalando PHPMyAdmin
-07 - Iniciando o serviço Apache2
-08 -  Exibir versão do MYSQL
-09 - Criar arquivo info.php
-10 - Inserir informações no info.php
-11 - Copiar pasta phpmyadmin
-12 - Reiniciando Apache2
-13 - Exibir status do serviço Apache2
+07 - Atualização do Debian 11
+08 - Iniciando o serviço Apache2
+09 - Exibir versão do MYSQL
+10 - Criar arquivo info.php
+11 - Inserir informações no info.php
+12 - Copiar pasta phpmyadmin
+13 - Reiniciando Apache2
+14 - Exibir status do serviço Apache2
 
-Se tiver algum problema contate-me em "jj.josijunior@gmail.com".
+Se tiver algum problema contate-me em jj.josijunior@gmail.com
