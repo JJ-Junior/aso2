@@ -5,13 +5,13 @@ Obeservação: Use os comandos abaixo como root.
 Só lembrando que este script funciona apenas no "Debian 11".
 
 Use os comandos abaixo se você não fez nada Debian 11:
-Aviso: Pode haver bugs no script, por tanto use em uma máquina virtual de teste.
 
 
 $ apt install git -y
 $ git clone https://github.com/terminal-junior/aso2.git
 $ chmod +x aso2/v0.3.0/install
 $ ./aso2/v0.3.0/install
+
 
 O que o script irá fazer?
 
