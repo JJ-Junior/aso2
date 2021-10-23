@@ -27,6 +27,7 @@ O que o script irá fazer?
 ----------------------------------------------------------------------------------------------
 
 Caso você já usou o server-config-v0.1.sh use os seguintes comandos:
+Aviso: Os scripts server-config-v0.2.sh e server-config-v0.1.sh foi descontinuado, recomendo que use o script acima.
 
 $ git clone https://github.com/terminal-junior/aso2.git
 $ cd aso2/v0.2/
